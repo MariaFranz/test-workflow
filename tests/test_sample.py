@@ -5,4 +5,4 @@ def inc(x):
 
 # run test on funktion inc
 def test_inc():
-    assert inc(3) == 5
+    assert inc(3) == 4
